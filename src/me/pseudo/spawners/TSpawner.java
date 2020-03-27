@@ -12,8 +12,13 @@ public class TSpawner {
 	private final Location location;
 	
 	
+	
 	public TSpawner(Location location) {
 		this.location = location;
+	}
+	
+	public Location getLocation() {
+		return this.location;
 	}
 	
 }
