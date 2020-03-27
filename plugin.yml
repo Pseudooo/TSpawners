@@ -1,0 +1,5 @@
+name: TSpawners
+version: 0.0.1
+description: Allows for temporary usage of spawners on the server!
+main: me.pseudo.TSpawners
+api-version: 1.13
